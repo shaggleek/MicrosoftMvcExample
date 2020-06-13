@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LMI_r\\desktop\\mvc\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\LMI_r\\Desktop\\mvc\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LMI_r\\desktop\\mvc\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\LMI_r\\Desktop\\mvc\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LMI_r\\desktop\\mvc\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\LMI_r\\Desktop\\mvc\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\LMI_r\\desktop\\mvc\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\LMI_r\\Desktop\\mvc\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\LMI_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LMI_r\\desktop\\mvc\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\LMI_r\\Desktop\\mvc\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
