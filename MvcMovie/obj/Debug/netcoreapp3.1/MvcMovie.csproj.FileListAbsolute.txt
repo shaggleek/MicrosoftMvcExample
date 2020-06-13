@@ -35,3 +35,5 @@ C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.dll
 C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\index.cshtml.g.cs
+C:\Users\LMI_r\Desktop\mvc\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\welcome.cshtml.g.cs
